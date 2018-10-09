@@ -1,12 +1,10 @@
-[[source]]
-url = "https://pypi.org/simple"
-verify_ssl = true
-name = "pypi"
+"[[source]]"=true
+url=https://pypi.org/simple
+verify_ssl=true
+name=pypi
 
 [packages]
-markdown = "==3.0.0"
-
-[dev-packages]
+markdown="==3.0.1"
 
 [requires]
-python_version = "3.6"
+python_version=3.6
