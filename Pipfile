@@ -3,15 +3,10 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 name = "pypi"
 
-[[source]]
-url = "https://opusonesolutions.jfrog.io/opusonesolutions/api/pypi/pypi-local/simple"
-verify_ssl = true
-name = "opusone"
-
 [packages]
 markdown = "==3.0.0"
-opusone-microservice = "==1.3.0"
 requests = "==2.19.1"
+python-dateutil = "==2.7.0"
 
 [dev-packages]
 
