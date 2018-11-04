@@ -6,7 +6,7 @@ name = "pypi"
 [packages]
 markdown = "==3.0.0"
 requests = "==2.19.1"
-python-dateutil = "==2.7.0"
+python-dateutil = "==2.7.5"
 flask = "==1.0.1"
 mock = "==1.2.0"
 pillow = "==5.2.0"
