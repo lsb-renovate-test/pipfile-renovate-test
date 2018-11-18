@@ -11,6 +11,7 @@ flask = "==1.0.1"
 mock = "==1.2.0"
 pillow = "==5.1.0"
 simplejson = "==3.16.0"
+unittest2 = {version = ">=1.0,<3.0", markers="python_version < '2.7.9' or (python_version >= '3.0' and python_version < '3.4')"}
 
 [dev-packages]
 pillow = "==5.1.0"
